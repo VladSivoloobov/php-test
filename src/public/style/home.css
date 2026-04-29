@@ -1,0 +1,12 @@
+#comments-list {
+  gap: 5px;
+}
+
+#comment-section {
+  min-height: 300px;
+  max-height: 800px;
+}
+
+#main {
+  height: calc(100% - 57px);
+}
