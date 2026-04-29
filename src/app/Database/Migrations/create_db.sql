@@ -1,6 +1,0 @@
-CREATE TABLE comments (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(255),
-  text TEXT,
-  date DATE
-);
